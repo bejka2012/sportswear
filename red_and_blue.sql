@@ -1,5 +1,5 @@
 
-Find out the number of customers who spent more money on blue goods than on red goods.
+Task: Find out the number of customers who spent more money on blue goods than on red goods.
 
 SELECT * FROM challenge.Customer
 SELECT * FROM challenge.Product
